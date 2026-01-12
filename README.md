@@ -10,10 +10,10 @@ This contains the analysis of data cooletected using google form in order to pro
 - 50 people are bringing just one friend
 - 31 people are bringing 2-3 friends
 - 4 people are looking to bring 4 friends
-### Decision made: Make sure to add an 50% increase in the amount of people that are coming 300 people.
+### Decision made: Make sure to add a 50% increase to the amount of people that are coming, i.e 300 people.
 
 ## Key Insight 3
-After scanning the google sheet and analysing the data, i was about to extract notable activities on what people would like to see at the event
+After scanning the google sheet and analysing the data, i was about to extract notable activities that people would like to see at the event
 - Karaoke
 - Cosplay
 - Quality Sound
